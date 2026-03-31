@@ -40,4 +40,4 @@ Understanding Brazilian e-commerce trends helps sellers, marketers, and analysts
 - Identify high-performing products and regions  
 - Optimize sales strategies  
 - Predict seasonal demand  
-- Gain actionable insights from real-world e-commerce data  
+- Gain actionable insights from real-world data  
