@@ -1,6 +1,6 @@
 # Brazilian E-Commerce Data Analysis  
 
-Dive into the vibrant world of **Brazilian e-commerce**! This repository explores the **Olist Brazilian E-Commerce Dataset**, containing **100,000+ orders from 2016–2018** across multiple marketplaces. We uncover insights on customer behavior, sales trends, top products, and regional performance to reveal the heartbeat of online shopping in Brazil.  
+This repository explores the **Olist Brazilian E-Commerce Dataset**, containing **100,000+ orders from 2016–2018** across multiple marketplaces. We uncover insights on customer behavior, sales trends, top products, and regional performance to reveal the heartbeat of online shopping in Brazil.  
 
 ### Datasets 
 For this analysis, we focused on five key tables from the original dataset:  
